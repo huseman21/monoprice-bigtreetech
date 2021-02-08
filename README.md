@@ -1,11 +1,26 @@
 # Marlin 3D Printer Firmware
 
+
+This is the marlin 3d printer firmware pre-configured to work on the Monoprice Maker Select 3D printer that has an upgraded board being the bigtreetech BTT SKR V1.4 Turbo with TFT35 V3.0 Touch Screen with TMC2208 V3.0 Stepper motor drivers.
+
+
+<img align="right" width=175 src="https://images.monoprice.com/productlargeimages/138601.jpg" />
+
+
+
+
+
+
+
+
+
+
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
 ![GitHub Release Date](https://img.shields.io/github/release-date/marlinfirmware/marlin.svg)
 [![Build Status](https://github.com/MarlinFirmware/Marlin/workflows/CI/badge.svg?branch=bugfix-2.0.x)](https://github.com/MarlinFirmware/Marlin/actions)
 
-<img align="right" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
+<img align="left" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
 
 Additional documentation can be found at the [Marlin Home Page](https://marlinfw.org/).
 Please test this firmware and let us know if it misbehaves in any way. Volunteers are standing by!
