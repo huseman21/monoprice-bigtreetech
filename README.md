@@ -4,8 +4,11 @@
 This is the marlin 3d printer firmware pre-configured to work on the Monoprice Maker Select 3D printer similar to the stock photo shown, but has an upgraded board being the bigtreetech BTT SKR V1.4 Turbo with a TFT35 V3.0 Touch Screen and TMC2208 V3.0 Stepper motor drivers.  Other features enabled are:
 
 Bltouch sensor enabled:
+
 Unified Bed Leveling enabled:
+
 Heated bed enabled:
+
 I have included the pre-compiled firmware.bin above for your convenence.      
 
 
